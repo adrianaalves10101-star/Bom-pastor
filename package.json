@@ -1,0 +1,9 @@
+{
+  "name": "ponte-tiktok-bom-pastor",
+  "version": "1.0.0",
+  "description": "Liga a live do TikTok ao jogo O Bom Pastor",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "ws": "^8.18.0", "tiktok-live-connector": "latest" }
+}
